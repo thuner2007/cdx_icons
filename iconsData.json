@@ -1,7 +1,13 @@
 {
-  "child_female": ["CWX_child_female_black_icon1.svg"],
-  "child_male": ["CWX_child_male_black_icon1.svg"],
-  "children": ["CWX_children_black_icon1.svg"],
+  "child_female": [
+    "CWX_child_female_black_icon1.svg",
+    "CWX_child_female_white_icon1.svg"
+  ],
+  "child_male": [
+    "CWX_child_male_black_icon1.svg",
+    "CWX_child_male_white_icon1.svg"
+  ],
+  "children": ["CWX_children_black_icon1.svg", "CWX_children_white_icon1.svg"],
   "cursor_normal": [
     "CWX_cursor_normal_black_icon1.svg",
     "CWX_cursor_normal_white_icon1.svg",
