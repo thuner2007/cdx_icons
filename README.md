@@ -1,5 +1,5 @@
 # Welcome to CWX_Icons!
-You can see all icons on this [website](https://cwx-icons-web.vercel.app).
+You can see all icons on this [website](https://cwx-icons-web-git-main-thuner2007s-projects.vercel.app).
 
 ## Usage
 To use CWX_Icons, follow these steps:
