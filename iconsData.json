@@ -11,7 +11,9 @@
   "cursor_normal": [
     "CWX_cursor_normal_black_icon1.svg",
     "CWX_cursor_normal_white_icon1.svg",
-    "CWX_cursor_normal_whiteWithBorder_icon1.svg"
+    "CWX_cursor_normal_whiteWithBorder_icon1.svg",
+    "CWX_cursor_normal_whiteWithBorder_icon1_5.svg",
+    "CWX_cursor_normal_whiteWithBorder_icon1_10.svg"
   ],
   "cursor_pointer": [
     "CWX_cursor_pointer_black_icon1.svg",
