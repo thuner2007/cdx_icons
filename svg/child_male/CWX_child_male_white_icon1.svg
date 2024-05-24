@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 353.07 509">
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 532.14 760.5">
   <defs>
     <style>
       .cls-1 {
@@ -8,10 +8,10 @@
       }
     </style>
   </defs>
-  <rect class="cls-1" x="77.34" y="176" width="198" height="202" rx="16" ry="16"/>
-  <rect class="cls-1" x="87.34" y="354" width="46" height="155" rx="12" ry="12"/>
-  <rect class="cls-1" x="219.34" y="354" width="46" height="155" rx="12" ry="12"/>
-  <rect class="cls-1" x="-22.16" y="229.5" width="164" height="45" rx="12" ry="12" transform="translate(-182.54 160.69) rotate(-56)"/>
-  <rect class="cls-1" x="270.73" y="170.27" width="45" height="164" rx="12" ry="12" transform="translate(-90.94 207.1) rotate(-34)"/>
-  <circle class="cls-1" cx="176.34" cy="80" r="80"/>
+  <rect class="cls-1" x="117.86" y="262.96" width="295.83" height="301.81" rx="16" ry="16"/>
+  <rect class="cls-1" x="132.8" y="528.91" width="68.73" height="231.59" rx="12" ry="12"/>
+  <rect class="cls-1" x="330.02" y="528.91" width="68.73" height="231.59" rx="12" ry="12"/>
+  <rect class="cls-1" x="-30.81" y="342.9" width="245.03" height="67.23" rx="12" ry="12" transform="translate(-271.72 242) rotate(-56)"/>
+  <rect class="cls-1" x="406.81" y="254.41" width="67.23" height="245.03" rx="12" ry="12" transform="translate(-135.48 310.73) rotate(-34)"/>
+  <circle class="cls-1" cx="265.77" cy="119.53" r="119.53"/>
 </svg>
