@@ -22,7 +22,12 @@
     "CWX_cursor_pointer_whiteWithBorder_icon1_5.svg"
   ],
   "dog_icon": ["CWX_dog_black_icon1.svg"],
-  "profile_icon": ["CDX_profile_black_icon1.svg"],
+  "profile_icon": [
+    "CDX_profile_invisibleWithBorder_icon1_6.svg",
+    "CDX_profile_invisibleWithBorder_icon1_10.svg",
+    "CDX_profile_black_icon1.svg",
+    "CDX_profile_white_icon1.svg"
+  ],
   "save_icon": [
     "CWX_save_invisibleWithBorder_icon1.svg",
     "CWX_save_invisibleWithBorder_icon1_2.svg",
