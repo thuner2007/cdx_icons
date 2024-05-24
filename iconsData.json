@@ -1,0 +1,25 @@
+{
+  "child_female": ["CWX_child_female_black_icon1.svg"],
+  "child_male": ["CWX_child_male_black_icon1.svg"],
+  "children": ["CWX_children_black_icon1.svg"],
+  "cursor_normal": [
+    "CWX_cursor_normal_black_icon1.svg",
+    "CWX_cursor_normal_white_icon1.svg",
+    "CWX_cursor_normal_whiteWithBorder_icon1.svg"
+  ],
+  "cursor_pointer": [
+    "CWX_cursor_pointer_black_icon1.svg",
+    "CWX_cursor_pointer_white_icon1.svg",
+    "CWX_cursor_pointer_whiteWithBorder_icon1.svg"
+  ],
+  "dog_icon": ["CWX_dog_black_icon1.svg"],
+  "profile_icon": ["CDX_profile_black_icon1.svg"],
+  "save_icon": [
+    "CWX_save_invisibleWithBorder_icon1.svg",
+    "CWX_save_invisibleWithBorder_icon1_2.svg",
+    "CWX_save_invisibleWithBorder_icon1_4.svg",
+    "CWX_save_whiteWithBorder_icon1.svg"
+  ],
+  "search_icon": ["CWX_search_invisibleWithBorder_icon1.svg"],
+  "settings_icon": ["CDX_settings_black_icon1.svg"]
+}
