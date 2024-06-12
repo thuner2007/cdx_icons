@@ -35,5 +35,6 @@
     "CWX_save_whiteWithBorder_icon1.svg"
   ],
   "search_icon": ["CWX_search_invisibleWithBorder_icon1.svg"],
-  "settings_icon": ["CDX_settings_black_icon1.svg"]
+  "settings_icon": ["CDX_settings_black_icon1.svg"],
+  "mail_icon": ["CWX_mail_icon1_4.svg"]
 }
